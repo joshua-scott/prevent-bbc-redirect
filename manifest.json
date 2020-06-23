@@ -13,7 +13,8 @@
       ],
       "js": [
         "index.js"
-      ]
+      ],
+      "run_at": "document_start"
     }
   ]
 }
